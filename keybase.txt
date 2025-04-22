@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lucastaylor9216
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lucas-storm.vercel.app
+  * I am lucastaylor9216 (https://keybase.io/lucastaylor9216) on keybase.
+  * I have a public key ASBdAntbXtUnwV8rTY7jkCLMOc-JN7oNVoGtj8NrfKcxago
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205d027b5b5ed527c15f2b4d8ee39022cc39cf8937ba0d5681ad8fc36b7ca7316a0a",
+      "host": "keybase.io",
+      "kid": "01205d027b5b5ed527c15f2b4d8ee39022cc39cf8937ba0d5681ad8fc36b7ca7316a0a",
+      "uid": "f889d538d53a4891f578ec12bb242219",
+      "username": "lucastaylor9216"
+    },
+    "merkle_root": {
+      "ctime": 1745359826,
+      "hash": "4b2f9b2def5b87f5748949e258a768a3b3dced4e14c083a1cdd8e395005cd7cc07f7fa4da9956b297e2bf2bbb8dafc869bdb58ab9aeb8002e59631a964b83b92",
+      "hash_meta": "ebfe1251538c1396bda92419af41371183fd9a4dc065aa262d51e0b75a3c5d14",
+      "seqno": 26737376
+    },
+    "service": {
+      "entropy": "J7rSGbG15CWin+vG9raTMKMM",
+      "hostname": "lucas-storm.vercel.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1745359972,
+  "expire_in": 504576000,
+  "prev": "a961cfa08af8f1a01eeb209d763987b9318c70096f391b4253892ed4e2dfd640",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXQJ7W17VJ8FfK02O45AizDnPiTe6DVaBrY/Da3ynMWoKp3BheWxvYWTESpcCB8QgqWHPoIr48aAe6yCddjmHuTGMcAlvORtCU4ku1OLf1kDEIGiK8WfOfDq8sxU9rRtDP2gMgFe+/EL5LFUIOckaYfIMAgHCo3NpZ8RALEZJ1IKfwFRvFK3vlNm+5qtYvz0QtnwozCfD80+rFjS+V2AnFwSxezzNk6wjlKaOh9SZylff5mFJvV7Fxur4DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHwf5GLGLv5z/piV4KbnKlkiPFb3x5whZcK+C9smSylDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lucastaylor9216
+
+==================================================================
